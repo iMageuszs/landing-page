@@ -1,2 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/*  #90AFC5
+    #336B87
+    #2A3132
+    #763626
+*/
+
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    border: 1px solid red;
+    background-color: #90AFC5;
+    height: 100px;
+    font-size: 24px;
+    color: #336B87;
+
+    
+
+}
+
+a {
+    text-decoration: none;
+    
+    
+}
+
+.logo {
+    justify-self: start;
+    border: 1px solid red;
+    font-weight: 900;
+}
+
+.right-links {
+    margin-left: auto;
+    border: 1px solid red;
+    font-weight: 400;
+    font-size: 20px;
+    gap: 50px;
+    
+    
+    
+}
+
+.link-header {
+    color: #2A3132;
+    
+    
+}
